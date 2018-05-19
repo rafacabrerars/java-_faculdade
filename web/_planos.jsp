@@ -80,7 +80,7 @@
             <input type="hidden" name="id" id="id">
             <div class="row">
                 <div class="col-md-6">
-                    <label style="color:black">Descrição</label>
+                    <label style="color:black">Descriï¿½ï¿½o</label>
                     <input type="text" name="descricao" id="descricao" class="form-control">
                 </div>
                  <div class="col-md-6">
